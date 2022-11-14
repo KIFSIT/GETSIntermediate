@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ApplicationName>GETSInermediate</ApplicationName>
+  <RMSSendIP>172.16.2.91</RMSSendIP>
+  <RMSSendPort>4001</RMSSendPort>
+  <RMSListenIP>172.16.2.91</RMSListenIP>
+  <RMSListenPort>4002</RMSListenPort>
+  <ClientListenIP>172.16.2.91</ClientListenIP>
+  <ClientListenPort>2010</ClientListenPort>
+  <RmsConnect>true</RmsConnect>
+</SystemConfiguration>
