@@ -15,7 +15,7 @@ namespace GETSIntermediate
 {
     public partial class Form1 : Form
     {
-        //first commit
+        //second commit
         ClientSocketManager m_ServerTerminal;
         internal StreamWriter _errorLog;
         internal StreamWriter _transactionLog;
